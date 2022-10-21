@@ -24,6 +24,3 @@ A full stack web application created as the final capstone for Thinkful's Full S
 <li>Knex</li>
 </ul>
 
-<h2>Credits</h2>
-Thinkful Ed. created the starter repository for this project, which consists of the E2E tests and boilerplate.<br>
-Starter repository: https://github.com/Thinkful-Ed/starter-restaurant-reservation
